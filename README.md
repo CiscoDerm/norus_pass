@@ -153,7 +153,7 @@ SecurePass a été conçu avec la sécurité comme priorité absolue:
 - [ ] **v1.4** - Audit de sécurité des mots de passe
 - [ ] **v2.0** - Applications mobiles (Android/iOS)
 
-Votez pour les fonctionnalités futures ou proposez vos idées dans [les issues](https://github.com/votre-username/securepass/issues).
+Votez pour les fonctionnalités futures ou proposez vos idées dans [les issues](https://github.com/CiscoDerm/norus_pass/issues).
 
 ---
 
@@ -169,9 +169,6 @@ graph LR
     D --> E[Pull Request]
     E --> F[Revue de code]
 ```
-
-Consultez nos [directives de contribution](CONTRIBUTING.md) pour plus de détails.
-
 ---
 
 <div align="center">
