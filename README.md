@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![SecurePass Banner](https://via.placeholder.com/800x200)
-
 ### Un gestionnaire de mots de passe élégant, sécurisé et simple d'utilisation
 
 [![Python 3.6+](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
