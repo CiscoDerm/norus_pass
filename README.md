@@ -21,8 +21,6 @@
 
 ## ✨ Fonctionnalités
 
-<img align="right" width="350" src="https://via.placeholder.com/350x280" alt="SecurePass Screenshot" />
-
 ### Interface
 - 🖥️ **Interface graphique moderne** et intuitive basée sur Tkinter
 - 🔍 **Recherche instantanée** de vos identifiants 
